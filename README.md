@@ -19,7 +19,7 @@ This dashboard tracks commissioning activities across SAN airport projects, prov
 
 ## Setup
 
-See the [template README](https://github.com/YOUR_USERNAME/criticalarc-dashboard) for full setup instructions. Quick start:
+See the [template README](https://github.com/kspann-hub/criticalarc-dashboard) for full setup instructions. Quick start:
 
 1. Clone this repo
 2. Create venv and `pip install -r requirements.txt`
